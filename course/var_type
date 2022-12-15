@@ -1,0 +1,61 @@
+# variable  变量  type  类型
+# name = '飞飞'
+# print(name * 10)
+# num_1 = 2
+# num_2 = 3
+# print(num_1**num_2)
+# while True:
+#     agg = int(input('鸡蛋的个数：'))
+#     price = float(0.65)logic symbol
+#     money = agg*price
+#     print(money)
+#     print('{}个鸡蛋，需要{}元'.format(agg,money))
+#     print(agg,'个鸡蛋，需要',money,'元')
+#     print(agg,'%s'%'个鸡蛋，需要%s'%money,'%s'%'元')
+#     break
+name = "飞飞老师"
+print(type(name))
+age = str(18)
+print(type(age))
+gender = '男'
+print(type(gender))
+high = 1.9
+print(type(high))
+weight = 100
+print(type(weight))
+
+
+# name = '蔡徐坤'
+# print(name *10)
+
+# number =int( input('你要买几个：'))
+# price  = float(0.68)
+# money = int(number * price)
+# print(money)
+# print('{}个鸡蛋需要{}元'.format(number,money))
+
+# r =  int(input('请输入半径：'))
+# d = 2*r
+# Pi =  int(3.14)
+# zz =Pi * d
+# print(zz)
+# print('通过计算，圆的周长为{}'.format(zz))
+
+
+# number = int(input('请输入你要购买多少个鸡蛋：'))
+# price = float(0.65)
+# money = number * price
+# print(money)
+# print(number,'个鸡蛋，需要',money,'元')
+# print('{}个鸡蛋，需要{}元'.format(number,money))
+# r = 4
+# Pi = float(3.14)
+# d = 2*r
+# zz = Pi * d
+# print(zz)
+# print("""圆的半径是{}，可以算出直径是{}，
+# 由此可以得到圆的周长为{}""".format(r,d,zz))
+
+
+
+
